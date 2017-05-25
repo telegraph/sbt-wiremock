@@ -1,0 +1,7 @@
+# check if the file gets created
+> deploy-wiremock
+> start-wiremock
+$ sleep 2000
+$ exists target/wiremock-standalone.jar
+> check-port
+> stop-wiremock

@@ -1,0 +1,10 @@
+# check if the file gets created
+> deploy-wiremock
+> test:start-wiremock
+> it:start-wiremock
+$ sleep 2000
+> it:check-request
+> test:check-request
+> it:stop-wiremock
+> test:check-request
+> test:stop-wiremock

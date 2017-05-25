@@ -1,0 +1,1167 @@
+{
+    "version": "1.0",
+    "identifier": "ozzta43knrsxc5lpnv2da33ignqwuy3i",
+    "title": "Artificial human life could soon be grown in lab after embryo breakthrough",
+    "language": "en",
+    "layout": {
+        "columns": 16,
+        "width": 1024,
+        "margin": 72,
+        "gutter": 24
+    },
+    "metadata": {
+        "datePublished": "2017-03-02T19:00:00+00:00",
+        "dateCreated": "2017-03-02T19:00:00+00:00",
+        "dateModified": "2017-03-02T19:04:42+00:00",
+        "authors": [
+            "Sarah Knapton"
+        ],
+        "generatorName": "tmg-apple-news",
+        "generatorVersion": "0.0.001",
+        "generatorIdentifier": "tmg-apple-news",
+        "thumbnailURL": "http:\/\/www.telegraph.co.uk\/content\/dam\/science\/2017\/03\/02\/embryo-xxlarge_trans_NvBQzQNjv4BqR1ZD5SZtdxSYOZ5SxBIUbHFouT2Ti6LL9hai5rYHAB4.jpg",
+        "canonicalURL": "http:\/\/www.telegraph.co.uk\/science\/2017\/03\/02\/artificial-human-life-could-soon-grown-lab-embryo-breakthrough\/",
+        "keywords": [
+            "fertility",
+            "neuroscience",
+            "humans-tv-series",
+            "mammals",
+            "pregnancy",
+            "uk-news",
+            "news",
+            "science",
+            "cambridge",
+            "stem-cells"
+        ],
+        "excerpt": "Artificial human life could soon be grown from scratch in the lab, after scientists successfully created a mammal embryo using only stem cells."
+    },
+    "advertisingSettings": {
+        "frequency": 10,
+        "layout": {
+            "margin": {
+                "top": 15,
+                "bottom": 20
+            }
+        }
+    },
+    "components": [
+        {
+            "role": "section",
+            "style": {
+                "backgroundColor": "#030D53"
+            },
+            "layout": {
+                "ignoreDocumentMargin": true
+            },
+            "components": [
+                {
+                    "role": "body",
+                    "textStyle": {
+                        "fontSize": 24,
+                        "lineHeight": 24,
+                        "hyphenation": false,
+                        "textColor": "#ffffff",
+                        "fontName": "AustinNewsHeadline-Semibold"
+                    },
+                    "text": "Download the free Telegraph app",
+                    "layout": {
+                        "margin": {
+                            "top": 12,
+                            "bottom": 2
+                        }
+                    }
+                },
+                {
+                    "role": "body",
+                    "textStyle": {
+                        "fontSize": 15,
+                        "hyphenation": false,
+                        "textColor": "#FFFFFF",
+                        "fontName": "Georgia",
+                        "linkStyle": {
+                            "textColor": "#17F4BC"
+                        }
+                    },
+                    "text": "The fastest way to get the news that matters",
+                    "layout": {
+                        "margin": {
+                            "bottom": 0
+                        }
+                    }
+                },
+                {
+                    "role": "body",
+                    "textStyle": {
+                        "fontSize": 14,
+                        "lineHeight": 24,
+                        "hyphenation": false,
+                        "textColor": "#17F4BC",
+                        "fontName": "TelesansTextWeb-Regular"
+                    },
+                    "text": "Download now",
+                    "additions": [
+                        {
+                            "type": "link",
+                            "URL": "http:\/\/m.onelink.me\/af76094e",
+                            "rangeStart": 0,
+                            "rangeLength": 12
+                        }
+                    ],
+                    "layout": {
+                        "margin": {
+                            "bottom": 12
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "role": "header",
+            "style": "headerContainerStyle",
+            "layout": "headerContainerLayout",
+            "components": [
+                {
+                    "role": "container",
+                    "layout": "topDividerLayout",
+                    "components": [
+                        {
+                            "role": "divider",
+                            "layout": {
+                                "columnStart": 0,
+                                "columnSpan": 16,
+                                "ignoreDocumentMargin": true,
+                                "margin": {
+                                    "top": 0,
+                                    "bottom": 0
+                                }
+                            },
+                            "stroke": {
+                                "color": "#df1a2a",
+                                "width": 5
+                            }
+                        }
+                    ]
+                },
+                {
+                    "role": "container",
+                    "layout": {
+                        "columnStart": 1,
+                        "columnSpan": 13,
+                        "margin": {
+                            "top": 0,
+                            "bottom": 10
+                        }
+                    },
+                    "style": {
+                        "border": {
+                            "all": {
+                                "width": 1,
+                                "color": "#df1a2a"
+                            },
+                            "left": true,
+                            "right": false,
+                            "top": false,
+                            "bottom": false
+                        }
+                    },
+                    "components": [
+                        {
+                            "role": "heading",
+                            "text": "  Science",
+                            "layout": {
+                                "columnStart": 0,
+                                "columnSpan": 13,
+                                "margin": {
+                                    "top": 0,
+                                    "bottom": 0
+                                }
+                            },
+                            "textStyle": "sectionTitleStyle"
+                        }
+                    ]
+                },
+                {
+                    "role": "title",
+                    "text": "Artificial human life could soon be grown in lab after embryo breakthrough",
+                    "layout": "titleLayout",
+                    "textStyle": "titleStyle"
+                },
+                {
+                    "role": "byline",
+                    "text": "By Sarah Knapton",
+                    "textStyle": "authorCopyStyle",
+                    "layout": "authorLayout",
+                    "inlineTextStyles": [
+                        {
+                            "rangeStart": 0,
+                            "rangeLength": 3,
+                            "textStyle": {
+                                "fontName": "AustinNewsTextWeb-Italic"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "role": "container",
+                    "layout": "topDividerLayout",
+                    "components": [
+                        {
+                            "role": "divider",
+                            "layout": {
+                                "columnStart": 1,
+                                "columnSpan": 12,
+                                "margin": {
+                                    "top": 0,
+                                    "bottom": 0
+                                }
+                            },
+                            "stroke": {
+                                "color": "#d7d7d7",
+                                "width": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "role": "byline",
+                    "text": "07:04PM GMT 02 Mar 2017",
+                    "textStyle": "timestampStyle",
+                    "layout": "timestampLayout"
+                }
+            ]
+        },
+        {
+            "role": "photo",
+            "layout": "headerImageLayout",
+            "URL": "http:\/\/www.telegraph.co.uk\/content\/dam\/science\/2017\/03\/02\/embryo_trans%2B%2BR1ZD5SZtdxSYOZ5SxBIUbHFouT2Ti6LL9hai5rYHAB4.jpg",
+            "caption": "Artificial mouse embryos grow in the lab"
+        },
+        {
+            "role": "caption",
+            "style": "articleContainerStyle",
+            "textStyle": "captionStyle",
+            "layout": "captionHeaderLayout",
+            "text": "Artificial mouse embryos grow in the lab"
+        },
+        {
+            "role": "container",
+            "style": "articleContainerStyle",
+            "layout": {
+                "columnStart": 0,
+                "columnSpan": 16,
+                "margin": {
+                    "bottom": 48
+                },
+                "ignoreDocumentMargin": true
+            },
+            "components": [
+                {
+                    "role": "divider",
+                    "layout": {
+                        "columnStart": 1,
+                        "columnSpan": 12,
+                        "margin": {
+                            "top": 20,
+                            "bottom": 5
+                        }
+                    },
+                    "stroke": {
+                        "color": "#dddddd",
+                        "width": 1
+                    }
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "Artificial human life could soon be grown from scratch in the lab, after scientists successfully created a mammal embryo using only stem cells.",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "[Cambridge University ](http:\/\/www.pdn.cam.ac.uk\/)mixed two kinds of mouse stem cells and placed them on a 3D scaffold. After four days of growth in a tank of chemicals designed to mimic conditions inside the womb, the cells formed the structure of a\u00a0living mouse embryo.",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "The [breakthrough ](http:\/\/science.sciencemag.org\/lookup\/doi\/10.1126\/science.aal1810)has been described as a \u2018masterpiece\u2019 in bioengineering, which could eventually allow scientists to grow artificial human embryos in the lab without the need for a sperm or an egg.",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "Growing embryos would help researchers to study the very early stages of human life so they could understand why so many pregnancies fail, but is likely to prove controversial and raise ethical questions about what constitutes human life.",
+                    "format": "markdown"
+                },
+                {
+                    "role": "container",
+                    "layout": "blockComponentLayout",
+                    "animation": {
+                        "type": "fade_in",
+                        "userControllable": true,
+                        "initialAlpha": 0.2
+                    },
+                    "components": [
+                        {
+                            "role": "photo",
+                            "URL": "http:\/\/www.telegraph.co.uk\/content\/dam\/science\/2016\/06\/08\/ivfalamy_3435181b_trans%2B%2BpJliwavx4coWFCaEkEsb3kvxIt-lGGWCWqwLa_RXJU8.jpg",
+                            "layout": "blockInnerComponent"
+                        },
+                        {
+                            "role": "caption",
+                            "textStyle": "captionStyle",
+                            "layout": "captionLayout",
+                            "text": "Currently only embryos life over from IVF procedures can be used in research, but they are in short supply\u00a0 Credit: Alamy\u00a0"
+                        }
+                    ]
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "Currently scientists can carry out experiments on leftover embryos from IVF treatments, but they are in short supply and must be destroyed after 14 days. Scientists say that being able to create unlimited numbers of artificial embryos in the lab could speed up research while potentially removing some of the ethical boundaries.",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "\u201cWe think that it will be possible to mimic a lot of the developmental events occurring before 14 days using human stem cells using a similar approach to our technique using mouse stem cells,\" said Professor Magdalena Zernicka-Goetz from the [Department of Physiology, Development and Neuroscience at Cambridge,](http:\/\/www.pdn.cam.ac.uk\/)\u00a0who led the research.",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "text": "[Click to view : Artificial life - stem cell research](https:\/\/cf-particle-html.eip.telegraph.co.uk\/77c69866-4028-4439-85f7-57934190ab0f.html)",
+                    "format": "markdown",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "\"We are very optimistic that this will allow us to study key events of this critical stage of human development without actually having to work on (IVF) embryos. Knowing how development normally occurs will allow us to understand why it so often goes wrong.\"",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "The embryos were created [using genetically engineered stem cells ](http:\/\/www.telegraph.co.uk\/science\/2016\/10\/17\/scientists-make-live-animals-from-artificial-eggs-in-remarkable\/)coupled with extra-embryonic trophoblast stem cells (TSCs) which form the placenta in a normal pregnancy.",
+                    "format": "markdown"
+                },
+                {
+                    "role": "container",
+                    "layout": "blockComponentLayout",
+                    "animation": {
+                        "type": "fade_in",
+                        "userControllable": true,
+                        "initialAlpha": 0.2
+                    },
+                    "components": [
+                        {
+                            "role": "photo",
+                            "URL": "http:\/\/www.telegraph.co.uk\/content\/dam\/science\/2017\/03\/02\/cells_trans%2B%2BqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.PNG",
+                            "layout": "blockInnerComponent"
+                        },
+                        {
+                            "role": "caption",
+                            "textStyle": "captionStyle",
+                            "layout": "captionLayout",
+                            "text": "How the embryo developed over 96 hours Credit: Cambridge University\u00a0"
+                        }
+                    ]
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "Previous attempts to grow embryos using only one kind of stem cell proved unsuccessful because the cells would not assemble into their correct positions.",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "But scientists discovered that when they added the second \u2018placental\u2019 stem cells, they two types began to talk to each other, effectively telling each other where to go.",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "Together they eventually melded together to form an embryonic structure, with two distinct clusters of cells at each end, and a cavity in the middle in which the embryo would continue to develop. The embryo would not grow into a mouse because it lacks the stem cells which make a yolk sack.\u00a0",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "Britain is currently leading the world in fertility research, and last year a group at the Francis Crick Institute was [granted permission to genetically modify human embryos](http:\/\/www.telegraph.co.uk\/science\/2016\/03\/12\/british-scientists-granted-permission-to-genetically-modify-huma\/), the first time in the world such a procedure had been approved by regulators.",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "text": "[Click to view : Our work will improve the chances of having a healthy baby | Professor Magdalena Zernicka-Goetz, University of Cambridge](https:\/\/cf-particle-html.eip.telegraph.co.uk\/c4af839b-4d58-4b8c-9598-a3dc7d2e3a04.html)",
+                    "format": "markdown",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "However such work raises important ethical questions about the sanctity of human life and whether it should be manipulated or created in the lab at all. \u00a0",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "Critics warn that allowing embryos to be grown for science opens the door to designer babies and genetically modified humans.",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "Dr David King, director of the watchdog group, [Human Genetics Alert](http:\/\/www.hgalert.org\/), said: \"What concerns me about the possibility of artificial embryos is that this may become a route to creating GM or even cloned babies.\u00a0",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "\"Until there is an enforceable global ban on those possibilities, as we saw with mitochondrial transfer, this kind of research risks doing the scientific groundwork for entrepreneurs, who will use the technologies in countries with no regulation.\"",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "The scientists would need to seek permission from the [Human Fertility and Embryology Authority (HFEA)](http:\/\/www.hfea.gov.uk\/), before attempting to create human embryos using the technique, and experts called for 'international dialogue' before going ahead.\u00a0",
+                    "format": "markdown"
+                },
+                {
+
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "Prof James Adjaye, Chair of Stem Cell Research and Regenerative Medicine, [Heinrich Heine University](https:\/\/www.uni-duesseldorf.de\/home\/en\/home.html), in Germany, said: \u00a0\u201cA regulatory body will ultimately decide on whether human stem cell embryos can be generated and for how long they can be left in the petri dish to develop further.",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "\u201cOf course, there should be an international dialogue on the regulation of such experiments.\u201d",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "But the study was welcomed by the scientific community who said it was a significant breakthrough.",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "Dr Dusko Ilic, Reader in Stem Cell Science, [King\u2019s College London](http:\/\/www.kcl.ac.uk\/index.aspx), said the research was \u2018masterpiece\u2019 in creating the earliest steps of life in a lab.",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "\u201cThis report is significant. The group from Cambridge is actually making the embryos de novo, using two different cell types, mixing them in a specific ratio and letting them to assemble together the embryo. This is science at its best.\u201d",
+                    "format": "markdown"
+                },
+                {
+                    "role": "body",
+                    "textStyle": "bodyDefaultStyle",
+                    "layout": "bodyLayout",
+                    "text": "The research was published in the journal [Science ](http:\/\/science.sciencemag.org\/lookup\/doi\/10.1126\/science.aal1810)and was funded by the Wellcome Trust and the European Research Council.",
+                    "format": "markdown"
+                }
+            ]
+        },
+        {
+            "role": "section",
+            "style": {
+                "backgroundColor": "#030D53"
+            },
+            "layout": {
+                "ignoreDocumentMargin": true
+            },
+            "components": [
+                {
+                    "role": "body",
+                    "textStyle": {
+                        "fontSize": 36,
+                        "lineHeight": 36,
+                        "textColor": "#FFFFFF",
+                        "fontName": "AustinNewsHeadline-Semibold",
+                        "hyphenation": false
+                    },
+                    "layout": {
+                        "columnStart": 0,
+                        "columnSpan": 6,
+                        "margin": {
+                            "top": 20,
+                            "bottom": 12
+                        }
+                    },
+                    "text": "Get fast, free access to The Telegraph"
+                },
+                {
+                    "role": "body",
+                    "textStyle": {
+                        "fontSize": 15,
+                        "lineHeight": 18,
+                        "hyphenation": false,
+                        "textColor": "#FFFFFF",
+                        "fontName": "Georgia",
+                        "linkStyle": {
+                            "textColor": "#17F4BC"
+                        }
+                    },
+                    "layout": {
+                        "columnStart": 0,
+                        "columnSpan": 6,
+                        "margin": {
+                            "top": 0,
+                            "bottom": 25
+                        }
+                    },
+                    "text": "Download the smartphone app for the latest news updated throughout the day"
+                },
+                {
+                    "role": "container",
+                    "style": {
+                        "backgroundColor": "#17F4BC"
+                    },
+                    "layout": {
+                        "columnStart": 0,
+                        "columnSpan": 6
+                    },
+                    "components": [
+                        {
+                            "role": "body",
+                            "textStyle": {
+                                "fontSize": 14,
+                                "lineHeight": 24,
+                                "hyphenation": false,
+                                "textColor": "#030D53",
+                                "fontName": "TelesansTextWeb-Regular",
+                                "textAlignment": "center"
+                            },
+                            "layout": {
+                                "columnStart": 0,
+                                "columnSpan": 6,
+                                "margin": {
+                                    "top": 0,
+                                    "bottom": 12
+                                }
+                            },
+                            "text": "Download now",
+                            "additions": [
+                                {
+                                    "type": "link",
+                                    "URL": "http:\/\/m.onelink.me\/aef88872",
+                                    "rangeStart": 0,
+                                    "rangeLength": 12
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "role": "logo",
+                    "URL": "bundle:\/\/app_preview.png",
+                    "layout": {
+                        "columnStart": 6,
+                        "columnSpan": 9,
+                        "margin": {
+                            "top": 16,
+                            "bottom": 0
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "componentStyles": {
+        "headerContainerStyle": {
+            "backgroundColor": "#ffffff"
+        },
+        "articleContainerStyle": {
+            "backgroundColor": "#ffffff"
+        },
+        "bannerContainerStyle": {
+            "backgroundColor": "#ffffff",
+            "border": {
+                "all": {
+                    "width": 3,
+                    "color": "#088192"
+                },
+                "left": false,
+                "right": false,
+                "top": true,
+                "bottom": false
+            }
+        },
+        "bannerbuttonContainerStyle": {
+            "backgroundColor": "#1a2d38",
+            "border": {
+                "all": {
+                    "width": 3,
+                    "color": "#088192"
+                },
+                "left": true,
+                "right": true
+            }
+        },
+        "topPromoContainerStyle": {
+            "backgroundColor": "#ddd9d7"
+        }
+    },
+    "componentTextStyles": {
+        "sponsoredTextStyle": {
+            "fontSize": 12,
+            "fontName": "AustinNewsTextWeb-Semibold",
+            "textColor": "#222222",
+            "textAlignment": "left",
+            "hyphenation": false,
+            "linkStyle": {
+                "textColor": "#2f80af",
+                "underline": true
+            }
+        },
+        "authorCopyStyle": {
+            "fontSize": 16,
+            "lineHeight": 18,
+            "fontName": "AustinNewsTextWeb-Semibold",
+            "textColor": "#222222",
+            "textAlignment": "left",
+            "hyphenation": false,
+            "linkStyle": {
+                "textColor": "#2f80af",
+                "underline": true
+            }
+        },
+        "bannerStyle": {
+            "fontSize": 60,
+            "fontName": "AustinNewsHeadline-Semibold",
+            "textColor": "#088192",
+            "lineHeight": 60,
+            "hyphenation": false
+        },
+        "bannerbuttonStyle": {
+            "fontSize": 14,
+            "lineHeight": 18,
+            "fontName": "TelesansTextWeb-Regular",
+            "textColor": "#fff",
+            "textAlignment": "center"
+        },
+        "bannersubStyle": {
+            "fontSize": 24,
+            "fontName": "AustinNewsHeadline-Semibold",
+            "textColor": "#1a2d38",
+            "lineHeight": 26,
+            "hyphenation": false
+        },
+        "creditStyle": {
+            "fontSize": 14,
+            "fontName": "TelesansTextWeb-Regular",
+            "textColor": "#888888",
+            "textAlignment": "right"
+        },
+        "bodyDefaultStyle": {
+            "fontSize": 18,
+            "fontName": "AustinNewsTextWeb-Roman",
+            "textColor": "#222222",
+            "lineHeight": 25,
+            "hyphenation": false,
+            "linkStyle": {
+                "textColor": "#222222",
+                "underline": true
+            }
+        },
+        "bodyFirstStyle": {
+            "fontSize": 18,
+            "fontName": "AustinNewsTextWeb-Roman",
+            "textColor": "#222120",
+            "linkStyle": {
+                "textColor": "#87ADBF",
+                "underline": true
+            },
+            "dropCapStyle": {
+                "fontName": "AustinNewsTextWeb-Roman",
+                "numberOfLines": 2,
+                "numberOfCharacters": 1,
+                "padding": 0
+            }
+        },
+        "bulletLinkStyle": {
+            "fontSize": 18,
+            "fontName": "AustinNewsTextWeb-Semibold",
+            "textColor": "#000000",
+            "lineHeight": 25,
+            "hyphenation": false,
+            "linkStyle": {
+                "textColor": "#2f80af",
+                "underline": true
+            }
+        },
+        "captionStyle": {
+            "fontSize": 14,
+            "lineHeight": 18,
+            "fontName": "TelesansTextWeb-Regular",
+            "textColor": "#666666"
+        },
+        "heading3Style": {
+            "fontSize": 24,
+            "lineheight": 26,
+            "fontName": "AustinNewsDeckWeb-Semibold",
+            "textColor": "#9c1006"
+        },
+        "heading5Style": {
+            "fontSize": 24,
+            "lineheight": 26,
+            "fontName": "AustinNewsDeckWeb-Semibold",
+            "textColor": "#9c1006"
+        },
+        "heading6Style": {
+            "fontSize": 16,
+            "lineheight": 20,
+            "fontName": "TelesansTextWeb-Regular",
+            "textColor": "#9c1006"
+        },
+        "liveDividerStyle": {
+            "border": {
+                "top": {
+                    "width": 1,
+                    "color": "#666666"
+                }
+            }
+        },
+        "pullquoteStyle": {
+            "fontSize": 28,
+            "fontName": "AustinNewsDeckWeb-MediumItalic",
+            "textColor": "#1a2d38",
+            "lineHeight": 32,
+            "hyphenation": false
+        },
+        "sectionTitleStyle": {
+            "fontSize": 34,
+            "lineheight": 24,
+            "fontName": "AustinNewsDeckWeb-Semibold",
+            "textColor": "#df1a2a"
+        },
+        "standfirstStyle": {
+            "fontSize": 24,
+            "fontName": "AustinNewsDeckWeb-Roman",
+            "textColor": "#222222",
+            "lineHeight": 28,
+            "hyphenation": false
+        },
+        "tagStyle": {
+            "fontSize": 14,
+            "fontName": "AustinNewsDeckWeb-Roman",
+            "textColor": "#666666",
+            "tracking": 0.1,
+            "hyphenation": false
+        },
+        "timestampStyle": {
+            "fontSize": 14,
+            "lineHeight": 14,
+            "fontName": "TelesansTextWeb-Regular",
+            "textColor": "#666666",
+            "textAlignment": "left",
+            "hyphenation": false,
+            "linkStyle": {
+                "textColor": "#2f80af",
+                "underline": true
+            }
+        },
+        "titleStyle": {
+            "fontSize": 42,
+            "fontName": "AustinNewsHeadline-Semibold",
+            "textColor": "#222222",
+            "lineHeight": 46,
+            "hyphenation": false
+        },
+        "topPromoStyle": {
+            "fontSize": 12,
+            "fontName": "AustinNewsTextWeb-Semibold",
+            "textColor": "#1a2d38",
+            "lineHeight": 10,
+            "hyphenation": false,
+            "textAlignment": "center"
+        }
+    },
+    "componentLayouts": {
+        "authorLayout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "margin": {
+                "top": 4,
+                "bottom": 25
+            }
+        },
+        "bodyLayout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "margin": {
+                "top": 0,
+                "bottom": 24
+            }
+        },
+        "bodyHeadingLayout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "margin": {
+                "top": 12,
+                "bottom": 24
+            }
+        },
+        "bodyInnerLayout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "margin": {
+                "bottom": 12
+            },
+            "ignoreDocumentGutter": true
+        },
+        "blockComponentLayout": {
+            "columnStart": 0,
+            "columnSpan": 14,
+            "margin": {
+                "top": 12,
+                "bottom": 32
+            },
+            "ignoreDocumentMargin": true,
+            "ignoreDocumentGutter": true
+        },
+        "blockInnerComponent": {
+            "margin": {
+                "top": 0,
+                "bottom": 0
+            },
+            "ignoreDocumentMargin": true,
+            "ignoreDocumentGutter": true
+        },
+        "blockMissingComponentLayout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "margin": {
+                "top": 0,
+                "bottom": 0
+            },
+            "ignoreDocumentGutter": true
+        },
+        "bulletLinkLayout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "margin": {
+                "top": 0,
+                "bottom": 0
+            }
+        },
+        "captionHeaderLayout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "margin": {
+                "top": 10,
+                "bottom": 5
+            }
+        },
+        "callToActionLayout": {
+            "columnStart": 0,
+            "columnSpan": 16,
+            "ignoreDocumentMargin": true,
+            "ignoreDocumentGutter": true,
+            "margin": {
+                "bottom": 1,
+                "top": 10
+            }
+        },
+        "callToActionLeftLayout": {
+            "columnStart": 0,
+            "columnSpan": 7,
+            "ignoreDocumentMargin": true,
+            "ignoreDocumentGutter": true,
+            "margin": {
+                "bottom": 20,
+                "top": 20
+            }
+        },
+        "callToActionLinkLayout": {
+            "columnStart": 7,
+            "columnSpan": 6,
+            "ignoreDocumentMargin": true,
+            "ignoreDocumentGutter": true,
+            "margin": {
+                "bottom": 0,
+                "top": 0
+            }
+        },
+        "callToActionLogoLayout": {
+            "columnStart": 1,
+            "columnSpan": 4,
+            "ignoreDocumentMargin": true,
+            "ignoreDocumentGutter": true,
+            "margin": {
+                "bottom": 0,
+                "top": 0
+            }
+        },
+        "callToActionRightLayout": {
+            "columnStart": 8,
+            "columnSpan": 6,
+            "ignoreDocumentMargin": true,
+            "ignoreDocumentGutter": true,
+            "margin": {
+                "bottom": 20,
+                "top": 65
+            }
+        },
+        "callToActionTextLayout": {
+            "columnStart": 7,
+            "columnSpan": 7,
+            "ignoreDocumentMargin": true,
+            "ignoreDocumentGutter": true,
+            "margin": {
+                "bottom": 0,
+                "top": 0
+            }
+        },
+        "callToActionTitleLayout": {
+            "columnStart": 1,
+            "columnSpan": 6,
+            "ignoreDocumentMargin": true,
+            "ignoreDocumentGutter": true,
+            "margin": {
+                "bottom": 0,
+                "top": 0
+            }
+        },
+        "captionLayout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "margin": {
+                "top": 10,
+                "bottom": 0
+            }
+        },
+        "componentInnerLayout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "margin": {
+                "bottom": 12,
+                "top": 0
+            }
+        },
+        "footerBannerAdLayout": {
+            "columnStart": 0,
+            "columnSpan": 14,
+            "ignoreDocumentMargin": true,
+            "ignoreDocumentGutter": true,
+            "margin": {
+                "bottom": 0,
+                "top": 0
+            }
+        },
+        "fullWidthComponentLayout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "ignoreDocumentMargin": false,
+            "margin": {
+                "bottom": 0,
+                "top": 12
+            },
+            "ignoreDocumentGutter": "left"
+        },
+        "dividerLayout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "ignoreDocumentMargin": true,
+            "margin": {
+                "top": 0,
+                "bottom": 8
+            }
+        },
+        "galleryCaptionLayout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "margin": {
+                "top": 16,
+                "bottom": 24
+            }
+        },
+        "headerContainerLayout": {
+            "columnStart": 0,
+            "columnSpan": 16,
+            "margin": {
+                "top": 0,
+                "bottom": 0
+            },
+            "padding": {
+                "top": 0,
+                "bottom": 0
+            },
+            "ignoreDocumentMargin": true
+        },
+        "headerImageLayout": {
+            "columnStart": 0,
+            "columnSpan": 16,
+            "ignoreDocumentMargin": true,
+            "ignoreDocumentGutter": true,
+            "margin": {
+                "bottom": 0,
+                "top": 0
+            }
+        },
+        "headerTextLayout": {
+            "columnStart": 1,
+            "columnSpan": 12
+        },
+        "heading3Layout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "margin": {
+                "top": 0,
+                "bottom": 26
+            }
+        },
+        "heading5Layout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "margin": {
+                "top": 0,
+                "bottom": 26
+            }
+        },
+        "heading6Layout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "margin": {
+                "top": 0,
+                "bottom": 26
+            }
+        },
+        "inlineComponentLayout": {
+            "columnStart": 3,
+            "columnSpan": 5,
+            "margin": {
+                "top": 15,
+                "bottom": 15
+            }
+        },
+        "instagramLayout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "margin": {
+                "top": 0,
+                "bottom": 32
+            }
+        },
+        "liveDividerLayout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "ignoreDocumentMargin": true,
+            "margin": {
+                "top": 25,
+                "bottom": 0
+            }
+        },
+        "pullquoteLayout": {
+            "columnStart": 0,
+            "columnSpan": 10,
+            "margin": {
+                "top": 23,
+                "bottom": 47
+            }
+        },
+        "sectionTitleLayout": {
+            "columnStart": 1,
+            "margin": {
+                "top": 0,
+                "bottom": 15
+            }
+        },
+        "standfirstLayout": {
+            "margin": {
+                "top": 32,
+                "bottom": 0
+            },
+            "columnSpan": 6
+        },
+        "tagLayout": {
+            "margin": {
+                "top": 24
+            }
+        },
+        "timestampLayout": {
+            "columnStart": 1,
+            "columnSpan": 11,
+            "margin": {
+                "top": 5,
+                "bottom": 10
+            }
+        },
+        "titleLayout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "margin": {
+                "top": 0,
+                "bottom": 20
+            }
+        },
+        "topDividerLayout": {
+            "columnStart": 0,
+            "columnSpan": 16,
+            "ignoreDocumentMargin": true,
+            "margin": {
+                "top": 0,
+                "bottom": 0
+            }
+        },
+        "topPromoLayout": {
+            "columnStart": 0,
+            "columnSpan": 16,
+            "ignoreDocumentMargin": true,
+            "margin": {
+                "top": 0,
+                "bottom": 0
+            }
+        },
+        "tweetLayout": {
+            "columnStart": 1,
+            "columnSpan": 12,
+            "margin": {
+                "top": 24,
+                "bottom": 24
+            }
+        },
+        "videoLayout": {
+            "columnStart": 0,
+            "columnSpan": 16,
+            "ignoreDocumentMargin": true,
+            "ignoreDocumentGutter": true,
+            "margin": {
+                "top": 24,
+                "bottom": 48
+            }
+        }
+    }
+}

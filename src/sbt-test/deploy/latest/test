@@ -1,0 +1,3 @@
+# check if the file gets created
+> deploy-wiremock
+$ exists target/wiremock-standalone.jar
