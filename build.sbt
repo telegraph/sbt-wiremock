@@ -5,8 +5,8 @@ lazy val buildNumber = sys.env.get("BUILD_NUMBER").map(bn => s"b$bn")
 lazy val CommonSettings = Seq(
   name              := "sbt-wiremock",
   organization      := "uk.co.telegraph",
-  version           := "1.0.0-" + buildNumber.getOrElse("SNAPSHOT"),
-  scalaVersion      := "2.10.6",
+  version           := "1.1.0-" + buildNumber.getOrElse("SNAPSHOT"),
+  scalaVersion      := "2.12.4",
   isSnapshot        := buildNumber.isEmpty,
   sbtPlugin         := true
 )

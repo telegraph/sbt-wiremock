@@ -2,7 +2,6 @@ package uk.co.telegraph.sbt.resolver
 
 import java.net.URL
 
-import sbt.CrossVersion._
 import sbt._
 
 import scala.xml.XML
@@ -14,14 +13,15 @@ trait ModuleResolver {
   val module:ModuleID
 
   lazy val groupId      = module.organization
-  lazy val artifactId   = module.crossVersion match {
-    case Disabled => module.name
-    case _        => s"${module.name}_$scalaVersion"
-  }
+  lazy val artifactId = s"${module.name}_$scalaVersion"
+// TODO: Comment with Antonio
+// lazy val artifactId   = module.crossVersio match {
+//    case Disabled => module.name
+//    case _        =>
+//  }
   lazy val revision   = module.revision
 
   private [resolver] lazy val metadata = loadMetadata
-
 
   //Check if version exists
   def checkVersion(version:String) =
@@ -38,7 +38,7 @@ trait ModuleResolver {
       .filter(checkVersion)
       .getOrElse(metadata.latest)
 
-    fromModuleIdAndMetadata(module.copy(revision = versionLabel), metadata)
+    fromModuleIdAndMetadata(module.withRevision(versionLabel), metadata)
   }
 
   //Get remove Jar

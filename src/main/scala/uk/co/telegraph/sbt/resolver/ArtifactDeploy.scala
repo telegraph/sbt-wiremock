@@ -5,6 +5,7 @@ import java.util.zip.ZipFile
 import sbt._
 import scala.concurrent.duration.Duration
 import scala.util._
+import sys.process._
 
 trait ArtifactDeploy {
 

@@ -3,6 +3,7 @@ package uk.co.telegraph.sbt.wiremock.tasks
 import java.net.Socket
 
 import sbt._
+import sys.process._
 import sbt.Keys.TaskStreams
 
 import scala.util.Try
