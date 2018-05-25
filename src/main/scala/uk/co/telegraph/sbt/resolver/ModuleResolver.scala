@@ -13,7 +13,11 @@ trait ModuleResolver {
   val module:ModuleID
 
   lazy val groupId      = module.organization
-  lazy val artifactId = s"${module.name}_$scalaVersion"
+  lazy val artifactId = module.crossVersion match{
+    case _: Disabled => s"${module.name}"
+    case _ => s"${module.name}_${scalaVersion.trim()}"
+  }
+
 // TODO: Comment with Antonio
 // lazy val artifactId   = module.crossVersio match {
 //    case Disabled => module.name
