@@ -55,7 +55,7 @@ object WiremockPlugin extends AutoPlugin{
   )
 
   val wiremockBaseTasks: Seq[Setting[_]] = Seq(
-    deployWiremock := {
+                                                deployWiremock := {
       implicit val scalaVersion = Keys.scalaVersion.value
       ArtifactDeploy(
         moduleId            = DefaultGroupId % DefaultArtifactId % wiremockVersion.value.label,

@@ -3,9 +3,13 @@ package uk.co.telegraph.sbt.resolver
 import java.util.zip.ZipFile
 
 import sbt._
-import scala.concurrent.duration.Duration
+
+import scala.concurrent.{Await, Future}
 import scala.util._
-import sys.process._
+import scala.sys.process._
+import scala.concurrent._
+import ExecutionContext.Implicits.global
+import scala.concurrent.duration._
 
 trait ArtifactDeploy {
 
@@ -32,11 +36,13 @@ trait ArtifactDeploy {
         val remoteJar = moduleId.resolveVersion().remoteJar
 
         logger.info(s"Downloading jar from [$remoteJar] to [${localJar.getAbsolutePath}]")
-        ( remoteJar #> localJar ).!!
+
+        val process = ( remoteJar #> localJar ).run()
+        Await.result(Future(blocking(process.exitValue())), 500 millis)
+
       } match {
-        case Success(_) =>
-        case Failure(e) =>
-          sys.error(s"Fail to download artifact [$moduleId]. Reason: ${e.getMessage}")
+        case Success(_) => {}
+        case Failure(e) => sys.error(s"Fail to download artifact [$moduleId]. Reason: ${e.getMessage}")
       }
     }
     if (!validJar(localJar)) {

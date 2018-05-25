@@ -37,6 +37,6 @@ trait WiremockKeys {
   lazy val wiremockGlobalResponseTemplating = SettingKey[Boolean       ]("global-response-templating", "Render all response definitions using Handlebars templates. --local-response-templating: Enable rendering of response definitions using Handlebars templates for specific stub mappings.")
 
   lazy val deployWiremock = TaskKey[File]("deploy-wiremock")
-  lazy val startWiremock = TaskKey[String]("start-wiremock")
-  lazy val stopWiremock = TaskKey[Unit]("stop-wiremock")
+  lazy val startWiremock  = TaskKey[String]("start-wiremock")
+  lazy val stopWiremock   = TaskKey[Unit]("stop-wiremock")
 }
