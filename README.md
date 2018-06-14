@@ -2,6 +2,7 @@
 #SBT Wiremock
 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8b06d4fc14844b518ce91efcc3b4573a)](https://app.codacy.com/app/telegraph/sbt-wiremock?utm_source=github.com&utm_medium=referral&utm_content=telegraph/sbt-wiremock&utm_campaign=badger)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Build Status](https://jenkins-prod.api-platforms.telegraph.co.uk/job/Pipeline/job/sbt-wiremock/badge/icon)](https://jenkins-prod.api-platforms.telegraph.co.uk/job/Pipeline/job/sbt-wiremock/)
 
 Support for running [Wiremock](http://wiremock.org/) standalone instance useful for tests and integration tests. 
