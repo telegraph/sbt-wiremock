@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8b06d4fc14844b518ce91efcc3b4573a)](https://www.codacy.com/app/telegraph/sbt-wiremock?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=telegraph/sbt-wiremock&amp;utm_campaign=Badge_Grade)
 
 #SBT Wiremock
 
